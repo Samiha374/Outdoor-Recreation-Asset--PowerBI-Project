@@ -1,7 +1,3 @@
-Here is the Power BI webLink : https://app.powerbi.com/links/J41_QPX_cY?ctid=c59bd97a-4b1b-4dab-89ac-a0ab6a8e4435&pbi_source=linkShare&bookmarkGuid=c7d3bf03-f35d-47d4-8297-7e3bde779f32
-
-# Outdoor Recreation Asset Dashboard – Power BI Project
-
 ## 📊 Project Overview
 This project is a **Power BI dashboard** created to analyze and visualize **Outdoor Recreation Assets**. The dashboard helps users understand asset distribution, categories, and usage trends through interactive visualizations.
 
@@ -62,7 +58,7 @@ These insights can help in planning, resource management, and decision-making.
 1. Download the `.pbix` file from this repository
 2. Open it using **Microsoft Power BI Desktop**
 3. Interact with the dashboard using filters and visuals
-
+Here is the Power BI webLink : https://app.powerbi.com/links/J41_QPX_cY?ctid=c59bd97a-4b1b-4dab-89ac-a0ab6a8e4435&pbi_source=linkShare&bookmarkGuid=c7d3bf03-f35d-47d4-8297-7e3bde779f32
 ---
 
 ## 🙋‍♀️ Author
